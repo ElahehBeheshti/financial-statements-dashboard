@@ -169,6 +169,10 @@ Total Liabilities ÷ Total Equity (measures financial leverage).
   Adjust for dividends, share capital transactions, and net income changes.
   ✔ Final report integrates with Cash Flow & Balance Sheet.
 
+
+<img width="588" alt="image" src="https://github.com/user-attachments/assets/d9e3d629-a243-4e27-9dd7-d00d5b76a3e0" />
+
+
       ############################################################################################
   
   8. Final Takeaways from this project
