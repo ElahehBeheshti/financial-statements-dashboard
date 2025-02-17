@@ -13,7 +13,9 @@ Data Structuring for Efficiency
     Uses keys (Territory Key, Account Key) instead of repeating data.
     Chart of Accounts classifies accounts into structured categories.
     Calendar Table enables time-based comparisons (e.g., Q1 2018 vs. Q1 2019).
+    
     ############################################################################################
+    
 Creating a Profit and Loss (PNL) Statement in Tableau
   Step 1: Setting Up the Worksheet
     Drag Account & Sub-Account fields (from Chart of Accounts) to Rows.
@@ -40,7 +42,9 @@ Creating a Profit and Loss (PNL) Statement in Tableau
 ✔ Correct sorting of revenue & expense categories
 ✔ Grand total reflects net profit
 ✔ Clean, structured, and formatted report
+
     ############################################################################################
+    
 3. Profitability Analysis in Tableau
 
     Step 1: Calculating Key Metrics
