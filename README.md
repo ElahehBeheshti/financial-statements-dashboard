@@ -44,9 +44,6 @@ Creating a Profit and Loss (PNL) Statement in Tableau
 ✔ Clean, structured, and formatted report
 
 
-<img width="1412" alt="image" src="https://github.com/user-attachments/assets/e6bcc6a5-eed4-4b5b-ae68-7794ab5ac99c" />
-
-
     ############################################################################################
     
 3. Profitability Analysis in Tableau
@@ -75,7 +72,10 @@ Creating a Profit and Loss (PNL) Statement in Tableau
     Net Profit Margin: (Net Profit ÷ Sales) × 100
     Operating Profit Margin: (Operating Profit ÷ Sales) × 100
     ✔ Format as percentages for better visualization.
-    
+
+    <img width="1412" alt="image" src="https://github.com/user-attachments/assets/e6bcc6a5-eed4-4b5b-ae68-7794ab5ac99c" />
+
+
 ############################################################################################
 
 4. Advanced Balance Sheet & Financial Ratios in Tableau
@@ -98,6 +98,9 @@ D. Debt-to-Equity Ratio
 
 Total Liabilities ÷ Total Equity (measures financial leverage).
 ✔ Format values as percentages in Tableau.
+
+
+<img width="1372" alt="image" src="https://github.com/user-attachments/assets/4ed1ae69-d96f-448b-acd1-ed061872adcd" />
 
     ############################################################################################
 
