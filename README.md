@@ -149,6 +149,15 @@ Total Liabilities ÷ Total Equity (measures financial leverage).
   <img width="634" alt="image" src="https://github.com/user-attachments/assets/c761ecb5-afd0-4baf-9f7b-c75dc1f77fd8" />
 
 
+  
+  <img width="760" alt="image" src="https://github.com/user-attachments/assets/aaa06ab0-6ad7-40dd-9608-bf6927b94a0c" />
+
+
+  <img width="861" alt="image" src="https://github.com/user-attachments/assets/20ef3913-6330-49f4-9884-ae9f30a2c478" />
+
+
+
+
       ############################################################################################
   
   7. Statement of Changes in Equity (SoC)
