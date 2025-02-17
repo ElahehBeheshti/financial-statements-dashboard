@@ -72,7 +72,7 @@ Creating a Profit and Loss (PNL) Statement in Tableau
     Operating Profit Margin: (Operating Profit ÷ Sales) × 100
     ✔ Format as percentages for better visualization.
     
-    ############################################################################################
+############################################################################################
 
 4. Advanced Balance Sheet & Financial Ratios in Tableau
 
