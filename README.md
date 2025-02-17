@@ -145,6 +145,10 @@ Total Liabilities ÷ Total Equity (measures financial leverage).
   Ensure correct ordering & sign adjustments (debits/credits).
   ✔ Structured Cash Flow Analysis for better decision-making.
 
+
+  <img width="634" alt="image" src="https://github.com/user-attachments/assets/c761ecb5-afd0-4baf-9f7b-c75dc1f77fd8" />
+
+
       ############################################################################################
   
   7. Statement of Changes in Equity (SoC)
