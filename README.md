@@ -43,6 +43,10 @@ Creating a Profit and Loss (PNL) Statement in Tableau
 ✔ Grand total reflects net profit
 ✔ Clean, structured, and formatted report
 
+
+<img width="1412" alt="image" src="https://github.com/user-attachments/assets/e6bcc6a5-eed4-4b5b-ae68-7794ab5ac99c" />
+
+
     ############################################################################################
     
 3. Profitability Analysis in Tableau
